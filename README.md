@@ -1,2 +1,2 @@
 # NYT-
-Implementation of co-occurrence graphs created from the LDC NYT corpus.
+The New York Times Annotated Corpus can be accessed via: https://catalog.ldc.upenn.edu/ldc2008t19
